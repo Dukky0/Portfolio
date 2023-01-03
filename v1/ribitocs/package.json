@@ -1,0 +1,22 @@
+{
+  "name": "dawebsiteofboots",
+  "version": "1.0.0",
+  "description": "Actually working on the website this time right guys????",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FRC617/dawebsiteofboots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FRC617/dawebsiteofboots/issues"
+  },
+  "homepage": "https://github.com/FRC617/dawebsiteofboots#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
